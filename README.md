@@ -15,4 +15,4 @@
 
 - https://github.com/google-coral
 - http://yut.hatenablog.com/entry/2019/08/26/014333
-- 
+- http://yut.hatenablog.com/entry/2019/09/27/081858
